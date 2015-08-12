@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Quiet Year Deck</title>
+  <link rel="stylesheet" href="src/css/styles.css">
+</head>
+<body>
+
+  <div id="options-view">
+    <button>Long Game</button>
+    <button>Short Game</button>
+  </div>
+
+  <div id="deck-view">
+    <button>Draw a card</button>
+
+    <p>5 cards left</p>
+  </div>
+
+  <div id="card-view">
+    <div class="card season-H">
+      <div class="card-hd">
+        <h2>Summer</h2>
+      </div>
+      <div class="card-bd">
+        <p>The time has come to consolidate your efforts and your borders. <strong>Projects located outside the settlement fail, and all remaining projects are reduced by 1 this week</strong>.</p>
+        <p class="or">or</p>
+        <p>Someone finds a curious opportunity on the edge of the map. <strong>Start a project related to this discovery</strong>.</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="bower_components/lodash/lodash.min.js"></script>
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="bower_components/ember/ember.js"></script>
+  <script src="src/js/deck.js"></script>
+  <script src="src/js/app.js"></script>
+
+</body>
+</html>
