@@ -1,0 +1,23 @@
+{
+  "name": "the-quiet-year",
+  "homepage": "https://github.com/tarmann/the-quiet-year",
+  "authors": [
+    "Bruno Tarmann <bruno@tarmann.com.br>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^2.2.3",
+    "lodash": "^4.12.0"
+  }
+}

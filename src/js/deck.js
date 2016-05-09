@@ -1,49 +1,91 @@
-var Deck = function(deck){
-  // spring, summer, autumn, winter
-  var seasonSuits = ['H', 'D', 'C', 'S'];
+var Deck = function(cards, type){
+  this.suits = [
+    { code: 'H', symbol: '♥', season: 'spring' },
+    { code: 'D', symbol: '♦', season: 'summer' },
+    { code: 'C', symbol: '♣', season: 'autumn' },
+    { code: 'S', symbol: '♠', season: 'winter' }
+  ];
 
-  this.deck = deck;
-  this.cards = this.shuffle(this.deck);
+  this.type = type;
+  this.cards = cards;
+
+  // to remove from each season
+  this.cardsToRemove = (type === 'short') ? 4 : 0;
+
+  this.deck = this.build(this.cards, type);
 };
 
-Deck.prototype.shuffle = function(){
-  return _(this.seasonSuits).map(function(suit){
-    return this.seasonDeck({ suit: suit });
-  }.bind(this)).flatten().value();
-};
+/* actions */
 
-Deck.prototype.notDrawn = function(item){
-  item.drawn = false;
-};
-
-Deck.prototype.isDrawn = function(item){
-  item.drawn = true;
-};
-
-Deck.prototype.seasonDeck = function(filter){
-  return _(this.deck)
-        .where(filter)
-        .forEach(this.notDrawn)
-        .shuffle()
+Deck.prototype.build = function(){
+  return _(this.suits)
+        .map(this.buildSeason.bind(this))
+        .flatten()
         .value();
 };
 
+Deck.prototype.buildSeason = function(season){
+  return this.filterBySeason(season)
+        .shuffle()
+        .take(this.filterBySeason(season).size() - this.cardsToRemove)
+        .map(this.setNotDrawn)
+        .value();
+};
+
+Deck.prototype.draw = function(){
+  if(gameDeck.remaining()){
+    return _(this.deck)
+          .filter({ drawn: false })
+          .take(1)
+          .map(this.setIsDrawn)
+          .first();
+  } else {
+    return false;
+  }
+};
+
+Deck.prototype.discard = function(total){
+  if(gameDeck.remaining() >= total){
+    return _.times(total, this.draw, this);
+  } else {
+    return false;
+  }
+};
+
+/* computed */
+
+Deck.prototype.filterBySeason = function(suit){
+  return _(this.cards).filter({ suit: suit.code });
+};
+
 Deck.prototype.size = function(){
-  return this.cards.length;
+  return this.deck.length;
 };
 
-Deck.prototype.count = function(filter){
-  return _(this.cards).where({ drawn: false }).value().length;
+Deck.prototype.drawn = function(){
+  return _(this.deck)
+        .filter({ drawn: true })
+        .size();
 };
 
-Deck.prototype.draw = function(filter){
-  return _(this.cards)
-        .where({ drawn: false })
-        .take(1)
-        .forEach(this.isDrawn)
-        .first();
+Deck.prototype.remaining = function(){
+  return _(this.deck)
+        .filter({ drawn: false })
+        .size();
 };
 
-Deck.prototype.discardTwo = function(){
-  return _.times(2, this.draw, this);
+Deck.prototype.progress = function(){
+  return ((this.drawn() / this.size()) * 100);
+};
+
+/* helpers */
+
+Deck.prototype.setNotDrawn = function(item){
+  item.drawn = false;
+  return item;
+};
+
+Deck.prototype.setIsDrawn = function(item){
+  item.drawn = true;
+  return item;
 };

@@ -1,4 +1,4 @@
-[
+var quietYearDeck = [
   { suit: 'H', number: 'A',
     options: [
       "What group has the highest status in the community? What must people do to gain inclusion in this group?",
