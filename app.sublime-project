@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"bower_components",
+				"node_modules"
+			],
+			"path": "."
+		}
+	]
+}

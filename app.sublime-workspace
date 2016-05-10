@@ -1,0 +1,1990 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"create",
+				"create_list"
+			],
+			[
+				"seria",
+				"pagination-serializer-mixin.js"
+			],
+			[
+				"update",
+				"updateMediaUrl"
+			],
+			[
+				"pool",
+				"poolService"
+			],
+			[
+				"onCopy",
+				"onCopyError"
+			],
+			[
+				"story",
+				"storyId"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"frame",
+				"frameTimer"
+			],
+			[
+				"remove",
+				"removeFrame"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"over",
+				"overlay_app/"
+			],
+			[
+				"module",
+				"module_or_msg"
+			],
+			[
+				"get",
+				"getPreview"
+			],
+			[
+				"dis",
+				"onDiscard"
+			],
+			[
+				"cropE",
+				"cropActionsEl"
+			],
+			[
+				"hide",
+				"hideActions"
+			],
+			[
+				"send",
+				"sendMessage"
+			],
+			[
+				"sele",
+				"screenshot-selector-actions.js"
+			],
+			[
+				"sc",
+				"screenshot.css"
+			],
+			[
+				"onCl",
+				"onCancel"
+			],
+			[
+				"getEv",
+				"getEventTarget"
+			],
+			[
+				"unbin",
+				"unbindEvents"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"crop",
+				"cropArea"
+			],
+			[
+				"rest",
+				"resetMask"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"ex",
+				"extension"
+			],
+			[
+				"preview",
+				"previewEl"
+			],
+			[
+				"cro",
+				"croppedImg"
+			],
+			[
+				"img",
+				"imgSrc"
+			],
+			[
+				"unbind",
+				"unbindCropper"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"area",
+				"areaSelector"
+			],
+			[
+				"bind",
+				"bindCropper"
+			],
+			[
+				"onMou",
+				"onMouseDown"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"off",
+				"offsetY"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"clear",
+				"clearWarning"
+			],
+			[
+				"onCre",
+				"onCreateStory"
+			],
+			[
+				"overl",
+				"overlay_app.js"
+			],
+			[
+				"tracki",
+				"trackingService"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"set",
+				"setScreenshotUrl"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"chara",
+				"character"
+			],
+			[
+				"affi",
+				"affiliation"
+			],
+			[
+				"bower",
+				"bower_components/"
+			],
+			[
+				"parse",
+				"parseResource"
+			],
+			[
+				"desc",
+				"describe"
+			],
+			[
+				"Cate",
+				"CategorisedEmbed"
+			],
+			[
+				"getT",
+				"getThumbnailUrl"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"thr",
+				"thru"
+			],
+			[
+				"ma",
+				"matches"
+			],
+			[
+				"url",
+				"urlMatches"
+			],
+			[
+				"re",
+				"resource"
+			],
+			[
+				"mo",
+				"memoize	Function with memoization"
+			],
+			[
+				"care",
+				"categorisedUrl"
+			],
+			[
+				"pro",
+				"protocol"
+			],
+			[
+				"target",
+				"currentTarget"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"iframe",
+				"iframeUrl"
+			],
+			[
+				"el",
+				"elOffset"
+			],
+			[
+				"render",
+				"renderOverlay"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"tran",
+				"transform	CSS - transform: ;"
+			],
+			[
+				"transition",
+				"transition"
+			],
+			[
+				"onLeave",
+				"onLeavePin"
+			],
+			[
+				"load",
+				"loadStory"
+			],
+			[
+				"s",
+				"styles/"
+			],
+			[
+				"storage",
+				"storageService"
+			],
+			[
+				"settings",
+				"settingsService"
+			],
+			[
+				"Stora",
+				"StorageModule"
+			],
+			[
+				"API_",
+				"API_KEY"
+			],
+			[
+				"media",
+				"mediaHandler"
+			],
+			[
+				"on",
+				"onEnterContent"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"add",
+				"addContent"
+			],
+			[
+				"link",
+				"linkUrl"
+			],
+			[
+				"for",
+				"forwardMessage"
+			],
+			[
+				"open",
+				"openOverlay"
+			],
+			[
+				"toggle",
+				"toggleOverlay"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"inje",
+				"inject.js"
+			],
+			[
+				"sel",
+				"selectors"
+			],
+			[
+				"l",
+				"lodash.min.js"
+			],
+			[
+				"m",
+				"jquery.min.js"
+			],
+			[
+				"validate",
+				"validateAll"
+			],
+			[
+				"_get",
+				"_getObjectId"
+			],
+			[
+				"_g",
+				"_getObjectId"
+			],
+			[
+				"impor",
+				"importController"
+			],
+			[
+				"mod",
+				"modules/"
+			],
+			[
+				"con",
+				"controllers/"
+			],
+			[
+				"API",
+				"API_VERSION"
+			],
+			[
+				"AP",
+				"API_URL"
+			],
+			[
+				"inject",
+				"injectAngular"
+			],
+			[
+				"margon",
+				"margin-bottom"
+			],
+			[
+				"proces",
+				"processResponse"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"uda",
+				"updateCategories"
+			],
+			[
+				"cate",
+				"category.js"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"serial",
+				"serializeData"
+			],
+			[
+				"ac",
+				"accuracy"
+			],
+			[
+				"save",
+				"saveKeywords"
+			],
+			[
+				"initia",
+				"initializeAutocomplete"
+			],
+			[
+				"entity",
+				"entityTypes"
+			],
+			[
+				"item",
+				"itemTypes"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"ini",
+				"initializeAutocomplete"
+			],
+			[
+				"addKey",
+				"addKeywords"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"sour",
+				"sourcemaps"
+			],
+			[
+				"say",
+				"sayHi"
+			],
+			[
+				"uri",
+				"uri_params"
+			],
+			[
+				"event",
+				"eventId"
+			],
+			[
+				"eventS",
+				"eventSearch"
+			],
+			[
+				"ev",
+				"eventQueryService"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "open ",
+		"selected_items":
+		[
+			[
+				"open ",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"open note",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"note",
+				"Evernote: New empty note"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"everno",
+				"Evernote: List recent notes"
+			],
+			[
+				"new note",
+				"Evernote: New empty note"
+			],
+			[
+				"evern",
+				"Evernote: List recent notes"
+			],
+			[
+				"evernote",
+				"Evernote: List recent notes"
+			],
+			[
+				"evernote settings",
+				"Evernote Settings: User"
+			],
+			[
+				"evernote ",
+				"Evernote Settings: Reconfigure Authorization"
+			],
+			[
+				"duplica",
+				"File: Duplicate"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"RENAME",
+				"File: Rename"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"produ",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"cdnjs",
+				"Cdnjs: Import URL only"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - User"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"markmo",
+				"Markmon launch"
+			],
+			[
+				"markmon",
+				"Markmon launch"
+			],
+			[
+				"mard",
+				"Set Syntax: Markdown"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"format",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"pro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
+				"gulp",
+				"Gulp: Run arbitrary task"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"user ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keuy",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"completion",
+				"CSS Completions: Delete Cache"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"SIDE",
+				"View: Toggle Side Bar"
+			],
+			[
+				"name",
+				"File: Copy Name"
+			],
+			[
+				"m",
+				"File: Move"
+			],
+			[
+				"remv",
+				"Emmet: Remove Tag"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"seach",
+				"Search Anywhere: From Input"
+			],
+			[
+				"preferes",
+				"Preferences: Settings - Default"
+			],
+			[
+				"subllinter",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"copy pa",
+				"File: Copy Path as URI"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"prod",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"produc",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"cdn",
+				"Cdnjs: Import URL only"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"MOVE",
+				"File: Move"
+			],
+			[
+				"jav",
+				"Set Syntax: Java"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"SUDER",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"mv",
+				"File: Move"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"jaca",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"test",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"reve",
+				"Permute Lines: Reverse"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"",
+				"42 : Add a header"
+			],
+			[
+				"PREFER",
+				"Preferences: Settings - User"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"chara",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"asdf",
+			"a",
+			"--help",
+			"help",
+			"ls",
+			"sublime.log_commands(True)",
+			"view.meta_info(\"cancelCompletion\", view.sel()[0].a)",
+			"clear()",
+			"cls",
+			"clear()",
+			"clear",
+			"view.meta_info(\"cancelCompletion\", view.sel()[0].a)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/brunobarretto1/Sites/learn/the-quiet-year",
+		"/Users/brunobarretto1/Sites/learn/the-quiet-year/src/js"
+	],
+	"file_history":
+	[
+		"/Users/brunobarretto1/Sites/learn/the-quiet-year/src/js/app.js",
+		"/Users/brunobarretto1/Sites/learn/the-quiet-year/src/js/deck.js",
+		"/Users/brunobarretto1/Sites/learn/the-quiet-year/index.html",
+		"/Users/brunobarretto1/Sites/learn/the-quiet-year/bower.json",
+		"/Users/brunobarretto1/Sites/learn/the-quiet-year/lang/cards.en.js",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/app.sublime-project",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/components/App.js",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/components/Games.js",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/components/GamesSearch.js",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/helpers.js",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/components/UserPicker.js",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/games.js",
+		"/Users/brunobarretto1/Sites/learn/game-night/gulpfile.js",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/main.js",
+		"/Users/brunobarretto1/Sites/learn/game-night/app.sublime-project",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/README.md",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/css/mixins/_buttons.sass",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/css/core/_buttons.sass",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/css/_vars.sass",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/css/components/_app.sass",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/css/app.sass",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/css/mixins/_button-style.sass",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/index.html",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/css/styleguide.sass",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/css/components/_app-sidebar.sass",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/css/core/_colors.sass",
+		"/Users/brunobarretto1/Desktop/tarmann.markdown",
+		"/Users/brunobarretto1/Desktop/CSS.md",
+		"/Users/brunobarretto1/Desktop/backup.md",
+		"/Users/brunobarretto1/Desktop/sass.css",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/gulpfile.js",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/css/mixins/_animate.sass",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/css/mixins/_shared.sass",
+		"/Users/brunobarretto1/Sites/storyful/styleguide/scripts/main.js",
+		"/Users/brunobarretto1/Sites/learn/react-course/Final Codebase/package.json",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog-styleguide/dist/styles/styles.css",
+		"/Users/brunobarretto1/Sites/learn/react-course/Final Codebase/scripts/components/StorePicker.js",
+		"/Users/brunobarretto1/Sites/learn/game-night/.gitignore",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/components/NotFound.js",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/main.jsx",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/components/Games.jsx",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/components/UserPicker.jsx",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/components/App.jsx",
+		"/Users/brunobarretto1/Sites/learn/game-night/scripts/.jshintrc",
+		"/Users/brunobarretto1/Sites/learn/game-night/css/style.sass",
+		"/Users/brunobarretto1/Sites/tests/game-guru/bgg_collection.json",
+		"/Users/brunobarretto1/Sites/tests/game-guru/controllers/api.js",
+		"/Users/brunobarretto1/Sites/tests/game-guru/node_modules/bgg/interceptor.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/styles/bootstrap/_buttons.sass",
+		"/Users/brunobarretto1/Sites/learn/react-course/01 - Introduction - Start Here/scripts/helpers.js",
+		"/Users/brunobarretto1/Sites/learn/react-course/01 - Introduction - Start Here/scripts/main.js",
+		"/Users/brunobarretto1/Sites/learn/react-course/01 - Introduction - Start Here/gulpfile.js",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/spec/controllers/decks_controller_spec.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/config/routes.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/spec/support/sign_in_support.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/app/controllers/decks_controller.rb",
+		"/Users/brunobarretto1/.Trash/devise.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/spec/support/devise.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/spec/rails_helper.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/spec/spec_helper.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/app/controllers/welcome_controller.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/app/services/deck_search_service.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/spec/services/game_template_service_spec.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/app/views/shared/_deck_stats.html.haml",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/app/services/game_template_service.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/.env",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/config/database.yml",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/spec/services/deck_search_service_spec.rb",
+		"/Users/brunobarretto1/Dropbox/Work/cleardb/import.csv",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/components/story-channels.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/components/story-headline.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/templates/components/story-headline.hbs",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/controllers/story.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/helpers/is-invalid.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/templates/story.hbs",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/templates/components/story-metadata.hbs",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/templates/components/story-channels.hbs",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/mixins/model-errors-mixin.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/templates/components/story-editorial.hbs",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/templates/components/story-items.hbs",
+		"/Users/brunobarretto1/Desktop/table",
+		"/Users/brunobarretto1/Desktop/import.csv",
+		"/Users/brunobarretto1/Desktop/import",
+		"/Users/brunobarretto1/Dropbox/Work/cleardb/46A9A706FC3DE97F5C8BB3C5ECA0DB96.sql",
+		"/Users/brunobarretto1/Dropbox/Work/Netrunner Log/games_by_date.sql",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/app/models/user.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/config/initializers/devise.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/app/services/stats_service.rb",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog/app/models/game.rb",
+		"/Users/brunobarretto1/Dropbox/Work/quotes.md",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/models/story.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/mixins/publish-story-mixin.js",
+		"/Users/brunobarretto1/Sites/learn/tarmann/_config.yml",
+		"/Users/brunobarretto1/Sites/learn/tarmann/_posts/2016-04-22-semana-2-recebi-uma-carta-do-passado.markdown",
+		"/Users/brunobarretto1/Sites/learn/tarmann/_posts/2016-04-18-semana-1-backup-gadgets-podcasts.markdown",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/components/story-publish-popover.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/components/story-items.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/adapters/story.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/stores/story.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/models/channel.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/templates/components/story-publish-popover.hbs",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/services/category-service.js",
+		"/Users/brunobarretto1/Sites/learn/blog/css/main.scss",
+		"/Users/brunobarretto1/Sites/learn/blog/_sass/_base.sass",
+		"/Users/brunobarretto1/Sites/learn/blog/_layouts/default.html",
+		"/Users/brunobarretto1/Sites/learn/blog/_sass/_layout.sass",
+		"/Users/brunobarretto1/Sites/learn/blog/_includes/head.html",
+		"/Users/brunobarretto1/Sites/learn/blog/_includes/footer.html",
+		"/Users/brunobarretto1/Sites/learn/blog/_includes/header.html",
+		"/Users/brunobarretto1/Sites/learn/blog/_site/index.html",
+		"/Users/brunobarretto1/Sites/learn/blog/_posts/2016-04-22-weekly-journal-1.markdown",
+		"/Users/brunobarretto1/Sites/learn/blog/_sass/_vars.sass",
+		"/Users/brunobarretto1/Sites/learn/blog/_sass/vendor/_reset.scss",
+		"/Users/brunobarretto1/Sites/learn/blog/_sass/vendor/reset.css",
+		"/Users/brunobarretto1/Library/Application Support/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+		"/Users/brunobarretto1/Library/Application Support/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+		"/Users/brunobarretto1/Desktop/css/CSS.md",
+		"/Users/brunobarretto1/Sites/learn/netrunnerlog-styleguide/deck.html",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/components/story-item-media.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/services/story-publish-service.js",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/styles/components/_story.sass",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/styles/_variables.sass",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/styles/bootstrap/_popover.sass",
+		"/Users/brunobarretto1/Desktop/quotes.md",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/styles/app.scss",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/styles/components/_popover-validation.sass",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/styles/_state.sass",
+		"/Users/brunobarretto1/Sites/storyful/io/frontend/app/routes/story.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/brunobarretto1/Sites/tests/game-guru",
+			"/Users/brunobarretto1/Sites/learn/netrunnerlog/spec",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend/app",
+			"/Users/brunobarretto1/Sites/learn/netrunnerlog",
+			"/Users/brunobarretto1/Sites/learn/netrunnerlog/app",
+			"/Users/brunobarretto1/Sites/learn/netrunnerlog",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend/app",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend/app",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend/app/styles",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend/app",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend",
+			"/Users/brunobarretto1/Sites/learn/netrunnerlog/app",
+			"/Users/brunobarretto1/Sites/storyful/heatmap",
+			"/Users/brunobarretto1/Sites/storyful/io/app/controllers",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend/app",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend/app/components",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend/app",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend/app",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend/app",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend",
+			"/Users/brunobarretto1/Sites/storyful/io/frontend/app",
+			"/Users/brunobarretto1/Sites/storyful/io-cms/crx/src/screenshot",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/io-cms/crx/src",
+			"/Users/brunobarretto1/Library/Application Support/Google/Chrome/Profile 2/Extensions/pioclpoplcdbaefihamjohnefbikjilc",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/io-cms/crx/src",
+			"/Users/brunobarretto1/Sites/storyful/claimer/crx/src",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/claimer/crx",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/persistent-search/public/v2/assets/scss",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/Storyful/public",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/Storyful/public/javascripts/views/admin/stories/",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/Storyful/public/javascripts",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/Storyful",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/persistent-search/public/v2/app",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/persistent-search",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/claimer/crx",
+			"<project>",
+			"/Users/brunobarretto1/Sites/storyful/alias/src",
+			"/Users/brunobarretto1/Sites/storyful/alias",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"draw",
+			"suff",
+			",",
+			".where",
+			"where",
+			"take",
+			"where",
+			"story-items-toolbar-button",
+			"@include button-disabled-dark",
+			"-dark",
+			"-darken",
+			"toggle",
+			"$btn-padding",
+			"toolbar",
+			" Button</",
+			" disabled",
+			"btn-",
+			"styleguide-group",
+			"handle",
+			"background: ",
+			":",
+			".js",
+			"stylus",
+			"xml2json",
+			"darken",
+			"div",
+			"paths",
+			"Dir[Rails.root.join(\"spec",
+			"factory",
+			"(3)",
+			"data",
+			"support",
+			" should return identities by side",
+			"valid",
+			"Spark%20Agency:%20Worldswide%20Reach",
+			"Quetzal:%20Free%20Spirit",
+			"modelErrors",
+			"form-errors",
+			"form-group-error-message",
+			"[corp_agendas]=",
+			"[runner_agendas]=",
+			"[casual]=",
+			"[online]=",
+			"[win]=",
+			"[click_cards]=",
+			"[click_cards]=1",
+			"[turns]=",
+			"[win]=",
+			"[turns]=",
+			"[click_cards]",
+			"]=",
+			"[click_credits]=",
+			"[identity]=",
+			"[opponent]=",
+			"[corp_agendas]",
+			"corp_agendas",
+			"true",
+			"corp_agendas",
+			"[corp_agendas]",
+			"Query: ",
+			"[online]",
+			"[corp_agendas]",
+			"[runner_agendas]",
+			"[casual]",
+			"[win_condition_id]",
+			"[win]",
+			"[click_cards]",
+			"[identity]",
+			"[opponent_identity]",
+			"[natural_played_at]=now[location]=jinteki",
+			"[natural_played_at]=now",
+			"jinteki",
+			"games",
+			"&game",
+			"mail",
+			"email",
+			" where(provider: auth.provider, uid: auth.uid).first_or_create! do |user|",
+			"config",
+			"omniauth",
+			"destroy",
+			"count",
+			".order('count DESC')",
+			"leadIm",
+			"leadima",
+			"stpru",
+			"April",
+			"wrong",
+			"publish",
+			"store",
+			"store.",
+			"store",
+			"publish",
+			"mode;",
+			"channels",
+			".filter",
+			"filter",
+			"channel",
+			"channe",
+			"reload",
+			"$base-font-weight",
+			"evernote",
+			"isShort",
+			"editorial",
+			".publish",
+			"publish",
+			"url",
+			"is-popover-validation--warning",
+			"popover-validation--item",
+			"popover-validaiton",
+			"div",
+			"<div>",
+			".sass",
+			"-button",
+			"72",
+			"75",
+			"isPublishedDisabled",
+			"model",
+			"ctrl.isPublishDisabled",
+			".</div>",
+			".",
+			"model.",
+			"=this",
+			"dev",
+			"%h4",
+			"h3",
+			"%div",
+			"%span",
+			"deck"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/brunobarretto1/Sites/learn/the-quiet-year/.gitignore",
+							"git_savvy.repo_path": "/Users/brunobarretto1/Sites/learn/the-quiet-year",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.GitSavvy":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 148.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.",
+				"scripts/main.js"
+			],
+			[
+				"but",
+				"app/styles/bootstrap/_buttons.sass"
+			],
+			[
+				"welcome",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"deckscont",
+				"app/controllers/decks_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"decks_se",
+				"app/services/deck_search_service.rb"
+			],
+			[
+				"decks",
+				"app/views/shared/_deck_stats.html.haml"
+			],
+			[
+				"templatspec",
+				"spec/services/game_template_service_spec.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"gametem",
+				"app/services/game_template_service.rb"
+			],
+			[
+				"spectemplate",
+				"spec/services/game_template_service_spec.rb"
+			],
+			[
+				"channels.hbs",
+				"app/templates/components/story-channels.hbs"
+			],
+			[
+				"headline.",
+				"app/components/story-headline.js"
+			],
+			[
+				"compochannels.js",
+				"app/components/story-channels.js"
+			],
+			[
+				"modelerrorsmixin",
+				"app/mixins/model-errors-mixin.js"
+			],
+			[
+				"is-inva",
+				"app/helpers/is-invalid.js"
+			],
+			[
+				"modelerrors",
+				"app/mixins/model-errors-mixin.js"
+			],
+			[
+				"story.js",
+				"app/controllers/story.js"
+			],
+			[
+				"storycha",
+				"app/templates/components/story-channels.hbs"
+			],
+			[
+				"metahbs",
+				"app/templates/components/story-metadata.hbs"
+			],
+			[
+				"headline",
+				"app/templates/components/story-headline.hbs"
+			],
+			[
+				"storyitemshbs",
+				"app/templates/components/story-items.hbs"
+			],
+			[
+				"storyhbs",
+				"app/templates/story.hbs"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"devise",
+				"config/initializers/devise.rb"
+			],
+			[
+				"modeluser",
+				"app/models/user.rb"
+			],
+			[
+				"modelgame",
+				"app/models/game.rb"
+			],
+			[
+				"controstory",
+				"app/controllers/story.js"
+			],
+			[
+				"model",
+				"app/models/story.js"
+			],
+			[
+				"publis",
+				"app/mixins/publish-story-mixin.js"
+			],
+			[
+				"popoover.js",
+				"app/components/story-publish-popover.js"
+			],
+			[
+				"controllerstory",
+				"app/controllers/story.js"
+			],
+			[
+				"publishserv",
+				"app/services/story-publish-service.js"
+			],
+			[
+				"service",
+				"app/services/category-service.js"
+			],
+			[
+				"popover.hbs",
+				"app/templates/components/story-publish-popover.hbs"
+			],
+			[
+				"channel",
+				"app/models/channel.js"
+			],
+			[
+				"publish",
+				"app/mixins/publish-story-mixin.js"
+			],
+			[
+				"modelstory",
+				"app/models/story.js"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"base",
+				"_sass/_base.sass"
+			],
+			[
+				"header",
+				"_includes/header.html"
+			],
+			[
+				"ever",
+				"Evernote: IRPF Indice"
+			],
+			[
+				"media.js",
+				"app/components/story-item-media.js"
+			],
+			[
+				"storyitemmedia",
+				"app/templates/components/story-item-media.hbs"
+			],
+			[
+				"story.sass",
+				"app/styles/components/_story.sass"
+			],
+			[
+				"vars",
+				"app/styles/_variables.sass"
+			],
+			[
+				"popover",
+				"app/styles/bootstrap/_popover.sass"
+			],
+			[
+				"popover.js",
+				"app/components/story-publish-popover.js"
+			],
+			[
+				"popover.",
+				"app/styles/bootstrap/_popover.sass"
+			],
+			[
+				"storypubl",
+				"app/components/story-publish-button.js"
+			],
+			[
+				"story-publish-button",
+				"app/components/story-publish-button.js"
+			],
+			[
+				"storiesitemh",
+				"app/templates/components/stories-item.hbs"
+			],
+			[
+				"publishhbs",
+				"app/templates/components/story-publish-button.hbs"
+			],
+			[
+				"ctrlbu",
+				"app/components/story-publish-button.js"
+			],
+			[
+				"storypub",
+				"app/templates/components/story-publish-button.hbs"
+			],
+			[
+				"about",
+				"app/views/welcome/about.html"
+			],
+			[
+				"gamesindex",
+				"app/views/games/index.html.haml"
+			],
+			[
+				"shareddecks",
+				"app/views/shared/_decks.html.haml"
+			],
+			[
+				"helper",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"modeldeck",
+				"app/models/deck.rb"
+			],
+			[
+				"deck_sea",
+				"app/services/deck_search_service.rb"
+			],
+			[
+				"controlldecks",
+				"app/controllers/decks_controller.rb"
+			],
+			[
+				"decksh",
+				"app/views/shared/_deck_stats.html.haml"
+			],
+			[
+				"gametempla",
+				"app/services/game_template_service.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"gametemplate",
+				"app/services/game_template_service.rb"
+			],
+			[
+				"gamecontro",
+				"app/controllers/games_controller.rb"
+			],
+			[
+				"publishbutt",
+				"app/templates/components/story-publish-button.hbs"
+			],
+			[
+				"publishbu",
+				"app/components/story-publish-button.js"
+			],
+			[
+				"publishmi",
+				"app/mixins/publish-story-mixin.js"
+			],
+			[
+				"app.sass",
+				"app/styles/components/_app.sass"
+			],
+			[
+				"bs-popover",
+				"app/components/bs-popover.js"
+			],
+			[
+				"categorieshbs",
+				"app/templates/components/story-categories.hbs"
+			],
+			[
+				"bs-pop",
+				"app/components/bs-popover.js"
+			],
+			[
+				"popoverhbs",
+				"app/templates/components/bs-popover.hbs"
+			],
+			[
+				"publishm",
+				"app/mixins/publish-story-mixin.js"
+			],
+			[
+				"control",
+				"app/controllers/story.js"
+			],
+			[
+				"story.hbs",
+				"app/templates/story.hbs"
+			],
+			[
+				"story",
+				"app/models/story.js"
+			],
+			[
+				"publisher",
+				"app/services/story-publish-service.js"
+			],
+			[
+				"contorstory",
+				"app/controllers/story.js"
+			],
+			[
+				"mediaurl",
+				"app/services/media-url-service.js"
+			],
+			[
+				"modelstor",
+				"app/models/story.js"
+			],
+			[
+				"publishser",
+				"frontend/app/services/story-publish-service.js"
+			],
+			[
+				"contstory",
+				"app/controllers/story.js"
+			],
+			[
+				"forms",
+				"styles/bootstrap/_forms.sass"
+			],
+			[
+				"state",
+				"styles/_state.sass"
+			],
+			[
+				"droptube.html",
+				"app/templates/components/droptube.html"
+			],
+			[
+				"paginationtes",
+				"tests/integration/components/x-pagination-test.js"
+			],
+			[
+				"storiesitem",
+				"app/templates/components/stories-item.hbs"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				".js",
+				"frontend/app/app.js"
+			],
+			[
+				"shared_decks",
+				"app/views/shared/_decks.html.haml"
+			],
+			[
+				"deck_stats",
+				"app/services/deck_stats_service.rb"
+			],
+			[
+				"decksser",
+				"app/services/deck_search_service.rb"
+			],
+			[
+				"decksearch",
+				"app/services/deck_search_service.rb"
+			],
+			[
+				"stats",
+				"app/services/stats_service.rb"
+			],
+			[
+				"deckstats",
+				"app/services/deck_stats_service.rb"
+			],
+			[
+				"statsservi",
+				"app/services/stats_service.rb"
+			],
+			[
+				"controller",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"serializer",
+				"app/serializers/story.js"
+			],
+			[
+				"pagination",
+				"app/templates/components/x-pagination.hbs"
+			],
+			[
+				"paginationseria",
+				"app/mixins/pagination-serializer-mixin.js"
+			],
+			[
+				"clearance",
+				"app/templates/components/story-clearance.hbs"
+			],
+			[
+				"temstory",
+				"app/templates/story.hbs"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"butt",
+				"styles/modules/_buttons.sass"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userscont",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"registration",
+				"app/controllers/users/registrations_controller.rb"
+			],
+			[
+				"serializermi",
+				"app/mixins/pagination-serializer-mixin.js"
+			],
+			[
+				"stories",
+				"app/templates/stories.hbs"
+			],
+			[
+				"x-pa",
+				"app/templates/components/x-pagination.hbs"
+			],
+			[
+				"paginati",
+				"app/mixins/pagination-serializer-mixin.js"
+			],
+			[
+				"pagina",
+				"app/components/x-pagination.js"
+			],
+			[
+				"x-pag",
+				"app/components/x-pagination.js"
+			],
+			[
+				"storieshbs",
+				"app/templates/stories.hbs"
+			],
+			[
+				"sidebar",
+				"app/styles/components/_app-sidebar.sass"
+			],
+			[
+				"routstory",
+				"app/routes/story.js"
+			],
+			[
+				"stories-item",
+				"app/styles/components/_stories-item.sass"
+			],
+			[
+				"story-items.scss",
+				"app/styles/_story-items.scss"
+			],
+			[
+				"buttons",
+				"app/styles/bootstrap/_buttons.sass"
+			],
+			[
+				"overl",
+				"app/styles/components/_options-overlay.sass"
+			],
+			[
+				"storiesitemhbs",
+				"app/templates/components/stories-item.hbs"
+			],
+			[
+				"overla",
+				"app/styles/components/_options-overlay.sass"
+			],
+			[
+				"stories.",
+				"app/templates/stories.hbs"
+			],
+			[
+				"stories.sass",
+				"app/styles/components/_stories.sass"
+			],
+			[
+				"stories.hbs",
+				"app/templates/stories.hbs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

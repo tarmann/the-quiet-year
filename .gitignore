@@ -12,7 +12,6 @@ dist/
 npm-debug.log
 _SpecRunner.html
 bower_components/
-crx/bower_components/
 .idea
 .grunt
 reports

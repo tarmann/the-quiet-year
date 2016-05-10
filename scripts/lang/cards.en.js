@@ -1,4 +1,4 @@
-var quietYearDeck = [
+export default [
   { suit: 'H', number: 'A',
     options: [
       "What group has the highest status in the community? What must people do to gain inclusion in this group?",
@@ -308,4 +308,4 @@ var quietYearDeck = [
       "The Frost Shepherds arrive. <strong>The game is over.</strong>"
     ]
   }
-]
+];

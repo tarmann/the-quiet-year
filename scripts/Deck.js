@@ -1,3 +1,5 @@
+var deepFreeze = require('deep-freeze');
+
 var Deck = function(cards, type){
   this.suits = [
     { code: 'H', symbol: '♥', season: 'spring' },
@@ -11,8 +13,9 @@ var Deck = function(cards, type){
 
   // to remove from each season
   this.cardsToRemove = (type === 'short') ? 4 : 0;
-
   this.deck = this.build(this.cards, type);
+
+  // deepFreeze(this.deck);
 };
 
 /* actions */
@@ -33,26 +36,31 @@ Deck.prototype.buildSeason = function(season){
 };
 
 Deck.prototype.draw = function(){
-  if(gameDeck.remaining()){
+  if(this.remaining()){
     return _(this.deck)
           .filter({ drawn: false })
           .take(1)
           .map(this.setIsDrawn)
           .first();
+
   } else {
     return false;
   }
 };
 
 Deck.prototype.discard = function(total){
-  if(gameDeck.remaining() >= total){
-    return _.times(total, this.draw, this);
+  if(this.remaining() >= total){
+    return _.times(total, this.draw.bind(this), this);
   } else {
     return false;
   }
 };
 
 /* computed */
+
+Deck.prototype.lastDrawn = function(suit){
+  return _(this.cards).filter({ suit: suit.code });
+};
 
 Deck.prototype.filterBySeason = function(suit){
   return _(this.cards).filter({ suit: suit.code });
@@ -89,3 +97,5 @@ Deck.prototype.setIsDrawn = function(item){
   item.drawn = true;
   return item;
 };
+
+export default Deck;
