@@ -21,8 +21,8 @@ var historyApiFallback = require('connect-history-api-fallback')
 */
 
 gulp.task('styles',function() {
-  // move over fonts
 
+  // move over fonts
   gulp.src('css/fonts/**.*')
     .pipe(gulp.dest('build/css/fonts'))
 
@@ -47,10 +47,10 @@ gulp.task('images',function(){
 */
 gulp.task('browser-sync', function() {
     browserSync({
-        // we need to disable clicks and forms for when we test multiple rooms
-        server : {},
-        middleware : [ historyApiFallback() ],
-        ghostMode: false
+      // we need to disable clicks and forms for when we test multiple rooms
+      server : {},
+      middleware : [ historyApiFallback() ],
+      ghostMode: false
     });
 });
 

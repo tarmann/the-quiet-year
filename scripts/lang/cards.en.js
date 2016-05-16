@@ -159,7 +159,7 @@ export default [
     options: [
       "Summer is fleeting. <strong>Discard the top two cards off the top of the deck and take two actions this week.</strong>"
     ],
-    action: 'discardTwo'
+    action: 'DISCARD_TWO'
   },
 
   { suit: 'C', number: 'A',
