@@ -8,17 +8,17 @@ var Card = React.createClass({
 
   render: function(){
     var isDrawn = this.props.details.drawn ? 'true' : 'false';
-    var classNames = 'card card-' + this.props.index;
+    var classNames = 'card';
 
     return (
       <div className={classNames}>
-        <div>
+        <div className="card--id">
           {this.props.details.suit}
           {this.props.details.number}
         </div>
 
-        <div dangerouslySetInnerHTML={this.createOptionHTML(0)} />
-        <div dangerouslySetInnerHTML={this.createOptionHTML(1)} />
+        <div className="card--option" dangerouslySetInnerHTML={this.createOptionHTML(0)} />
+        <div className="card--option" dangerouslySetInnerHTML={this.createOptionHTML(1)} />
       </div>
     )
   }

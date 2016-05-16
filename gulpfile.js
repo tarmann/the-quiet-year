@@ -28,6 +28,7 @@ gulp.task('styles',function() {
 
   // Compiles CSS
   gulp.src('css/style.sass')
+    .on('error', handleErrors)
     .pipe(sass())
     .pipe(autoprefixer())
     .pipe(gulp.dest('./build/css/'))
